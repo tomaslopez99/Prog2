@@ -1,7 +1,6 @@
 package prog2.SubeCard;
 
 public class SubeCard {
-    int prueba;
     float balance;
     public SubeCard(){
         balance = 0;
